@@ -1,7 +1,3 @@
-This looks like an excellent foundation for your project! Here's an enhanced README along with installation and usage instructions to guide users through setting up and running the **HFLLM RAG Streamlit Med** application.
-
----
-
 # 🏥 HFLLM RAG Streamlit Med
 
 **Health Records Management & Retrieval using Local LLM**
