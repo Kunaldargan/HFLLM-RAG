@@ -1,0 +1,9 @@
+streamlit
+langchain
+faiss-cpu
+transformers
+torch
+sentence-transformers
+nemo-guardrails
+elasticsearch
+PyYAML

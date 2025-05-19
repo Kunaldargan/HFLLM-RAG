@@ -1,0 +1,19 @@
+# Configuration settings for the application
+
+# Model settings
+model_name: "meta-llama/Llama-3-8b-instruct"
+model_path: "./models/llama-3.2-3b-instruct-medical/"
+
+# Data paths
+data_dir: "./data/"
+patient_records_dir: "./data/patient_records/"
+medical_literature_dir: "./data/medical_literature/"
+doctor_prescriptions_dir: "./data/doctor_prescriptions/"
+medical_bills_dir: "./data/medical_bills/"
+patient_history_dir: "./data/patient_history/"
+
+# Retrieval settings
+vector_db_type: "faiss" # Options: faiss, elasticsearch
+
+# Guardrails settings
+guardrails_enabled: True
